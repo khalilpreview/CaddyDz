@@ -22,7 +22,7 @@ I'm a web developer who loves code and architecture, I like to build something t
 
 To learn more about me please take a look at my [personal website](https://salimdj.me)
 
-Please don't forget to star ⭐ the repositories below if you find them interesting)
+Please don't forget to star ⭐  the repositories below if you find them interesting)
 
 ## Github Stats & Top Langs
 
