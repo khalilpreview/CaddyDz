@@ -29,10 +29,10 @@ Please don't forget to star ⭐  the repositories below if you find them interes
 ![Caddy's GitHub stats](https://github-readme-stats.vercel.app/api?username=CaddyDz&show_icons=true&theme=shades-of-purple&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaddyDz&hide=html,css&layout=compact&theme=shades-of-purple)](https://github.com/CaddyDz/CaddyDz)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CaddyDz&repo=EnglishWorlds&theme=shades-of-purple)](https://github.com/CaddyDz/github-readme-stats)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CaddyDz&repo=dotfiles&theme=shades-of-purple)](https://github.com/CaddyDz/github-readme-stats)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CaddyDz&repo=ml&theme=shades-of-purple)](https://github.com/CaddyDz/github-readme-stats)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CaddyDz&repo=Turbo&theme=shades-of-purple)](https://github.com/CaddyDz/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CaddyDz&repo=EnglishWorlds&theme=shades-of-purple)](https://github.com/CaddyDz/EnglishWorlds)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CaddyDz&repo=dotfiles&theme=shades-of-purple)](https://github.com/CaddyDz/dotfiles)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CaddyDz&repo=ml&theme=shades-of-purple)](https://github.com/CaddyDz/ml)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CaddyDz&repo=Turbo&theme=shades-of-purple)](https://github.com/CaddyDz/Turbo)
 
 
 ## Stack Overflow :
