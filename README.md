@@ -2,7 +2,7 @@
 
 #### **CaddyDz/CaddyDz** is a ✨ _special_ ✨ repository but CaddyDz isn't
 
-- 🔭 I’m currently working on an e-commerce platform, gaming ELO Site and other apps
+- 🔭 I’m currently working on a directory listing, gaming ELO Site and other apps
 - 🌱 I’m currently learning D programming language
 - 👯 I’m looking to collaborate on anything really
 - 🤔 I’m looking for help with AI (specifically ML)
