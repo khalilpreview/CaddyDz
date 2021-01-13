@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Metrics](https://metrics.lecoq.io/CaddyDz?template=classic&followup=1&isocalendar=1&languages=1&pagespeed=1&stars=1&pagespeed.detailed=false&pagespeed.screenshot=false&isocalendar.duration=full-year&stars.limit=4&config.timezone=Africa%2FAlgiers)
+
 #### **CaddyDz/CaddyDz** is a ✨ _special_ ✨ repository but CaddyDz isn't
 
 - 🔭 I’m currently working on a directory listing, gaming ELO Site and other apps
